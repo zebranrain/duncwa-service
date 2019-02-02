@@ -1,0 +1,5 @@
+How data flows from client to server
+Routes being used, be more explicit
+More details, should include data flow and which routes.
+    Specifically, from client to server and from server to github API
+    
